@@ -1,31 +1,35 @@
-title: "Timothy M Beissinger"
-author: 
-description: "Really cool blog about ... something"
-#subheading: "Really cool blog about ... something"
-more: "read more"
-url: "http://timbeissinger.github.io"
-baseurl: 
+---
 
-comments:
-    disqus: "niklasbuschmann"
-#    isso: "comments.mysite.org"
+port: 4000
+host: 0.0.0.0
+safe: false
 
-style:
-#    body: "whitesmoke"
-    padding: 33%
-    anchor: "#46f"
-    serif-heading: true
-    nav: "#181818"
-#    headline: "#06f"
-    description: "white"
-    article:
-        odd: "#ffffff"
-        even: "#222222"
 
-links:
-  - github: "https://github.com/timbeissinger/"
-  - twitter: "https://twitter.com/timbeissinger/"
-  - google scholar: "https://scholar.google.com/citations?user=PHAEOXIAAAAJ&hl=en"
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: / ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+highlighter: pygments
 
-excerpt_separator: "\n\n\n"
-defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
+
+### content configuration ###
+title:       "SinglePaged - Simple Jekyll template"
+keywords:    "SinglePaged, jekyll, template, github, blog, single page"
+description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+source_link: "https://github.com/t413/SinglePaged"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
