@@ -18,7 +18,7 @@ highlighter: pygments
 title:       "Timothy M. Beissinger"
 keywords:    
 description: 
-source_link: "https://github.com/t413/SinglePaged"
+source_link: 
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
