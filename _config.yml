@@ -3,8 +3,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Timothy M Beissinger
+tagline:          Info
 url:              http://timbeissinger.github.io
 paginate:         1
 baseurl:          /
