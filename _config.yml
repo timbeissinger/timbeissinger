@@ -4,16 +4,16 @@ relative_permalinks: true
 
 # Setup
 title:            Timothy M Beissinger
-tagline:          Info
+tagline:          
 url:              http://timbeissinger.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Tim Beissinger
+  url:            https://twitter.com/timbeissinger
+  email:          timbeissinger@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/timbeissinger.io
