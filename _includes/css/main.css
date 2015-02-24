@@ -320,7 +320,7 @@ nav ul li:hover, nav ul li.active {
     margin: 1.5 * $spacing-unit 5;
 
     a {
-        font-weight: 700;
+        font-weight: 2000;
         color: white;
         margin-left: 10px;
 
