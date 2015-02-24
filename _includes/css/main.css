@@ -321,7 +321,7 @@ nav ul li:hover, nav ul li.active {
 
     a {
         font-weight: 2000;
-        color: white;
+        text-color: white;
         margin-left: 10px;
 
         &:hover {
