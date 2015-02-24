@@ -371,7 +371,7 @@ nav ul li:hover, nav ul li.active {
         margin-left: 10px;
 
         &:hover {
-            border-bottom: 1px dashed #fff;
+            border-bottom: 1px dashed white;
         }
     }
 }
