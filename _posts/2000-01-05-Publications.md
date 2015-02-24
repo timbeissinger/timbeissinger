@@ -30,3 +30,16 @@ selection](http://journal.frontiersin.org/article/10.3389/fgene.2011.00004/abstr
 
 ### Submitted
 **Beissinger, T.M.**, Gholami, M., Erbe, M., Weigend, S., Weigend, A., de Leon, N., Gianola, D., Simianer, H. Using the variability of linkage disequilibrium between subpopulations to scan for selection in a diverse panel of chickens. Submitted.
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39814858-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
