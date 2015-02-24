@@ -19,7 +19,7 @@ Hirsch, C.N., Flint-Garcia, S.A., **Beissinger, T.M.**, Eichten, S.R., Deshpande
 
 **Beissinger, T.M.**, Hirsch, C.N., Vaillancourt, B., Deshpande, S., Barry, K., Buell, C. R., Kaeppler, S. M., Gianola, D., de Leon, N. 2014. [A genome-wide scan forevidence of selection in a maize population under long-term artificial selection for ear number](http://www.genetics.org/content/196/3/829.abstract?sid=e4b2d64c-6e61-4c88-9ddd-2c492f16c35d){:target="_blank"}. *Genetics*. 196(3): 829-840.
 
-**\*Beissinger, T.M.**, Hirsch, C.N., Sekhon, R.S., Foerster, J.M., Johnson, J.M., Muttoni, G., Vaillancourt, B., Buell, C.R., Kaeppler, S.M., de Leon, N. 2013. [Marker density and read-depth for genotyping populations using genotyping-by-sequencing](http://www.genetics.org/content/193/4/1073.abstract?sid=e4b2d64c-6e61-4c88-9ddd-2c492f16c35d){:target="_blank"}. *Genetics*. 193: 1073-1081.
+**\*Beissinger, T.M.**, Hirsch, C.N., Sekhon, R.S., Foerster, J.M., Johnson, J.M., Muttoni, G., Vaillancourt, B., Buell, C.R., Kaeppler, S.M., de Leon, N. 2013. [Marker density and read-depth for genotyping populations using genotyping-by-sequencing](http://www.genetics.org/content/193/4/1073.abstract?sid=e4b2d64c-6e61-4c88-9ddd-2c492f16c35d){:target="_blank"}. *Genetics*. 193: 1073-1081.  
 \* Selected as a highlighted article by the editorial board.
 
 Wu, X., Chuanyu, S., **Beissinger, T.M.**, Rosa, G., Weigel, K., de Leon, N., Gianola, D. 2012. [Parallel Markov chain Monte Carlo - bridging the gap to high performance Bayesian computation in animal breeding and genetics](http://www.gsejournal.org/content/44/1/29){:target="_blank"}. *Genet Sel Evol*. 44:29.
