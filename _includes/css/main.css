@@ -314,7 +314,7 @@ nav ul li:hover, nav ul li.active {
 .links {
     text-align: center;
     background: purple;
-    color: white;
+    color: green;
     padding: 8px 15px;
     border-radius: 5px;
     margin: 1.5 * $spacing-unit 5;
