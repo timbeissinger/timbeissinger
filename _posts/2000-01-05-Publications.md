@@ -10,7 +10,7 @@ style: left
 ### In peer reviewed journals
 **Beissinger, T.M.**, Rosa, J.G.M., Kaeppler, S.M., de Leon, N., Gianola, D. Definingwindow-boundaries for genomic analyses using smoothing spline techniques. *Genetics Selection Evolution*. In Press.
 
-Lorenz, A. J., **Beissinger, T.M.**, Rodrigues, R., de Leon, N. Selection for silageyield and composition did not affect genomic diversity within the Wisconsin QualitySynthetic maize population. *Genes Genomes Genetics*. DOI: 10.1534/g3.114.015263.
+Lorenz, A. J., **Beissinger, T.M.**, Rodrigues, R., de Leon, N. [Selection for silageyield and composition did not affect genomic diversity within the Wisconsin QualitySynthetic maize population.](http://www.g3journal.org/content/early/2015/02/02/g3.114.015263.abstract) *Genes Genomes Genetics*. DOI: 10.1534/g3.114.015263.
 
 Foerster, J.M., **Beissinger, T.M.**, de Leon, N., Kaeppler, S.M. 2015. Large effectQTL explain natural phenotypic variation for the developmental timing of vegetative phase change in maize (Zea mays L.). *Theoretical and Applied Genetics*. DOI:
 10.1007/s00122-014-2451-3.
