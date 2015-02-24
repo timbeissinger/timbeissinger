@@ -355,3 +355,23 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
+
+.share-page {
+    text-align: center;
+    background: purple;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 1.5 * $spacing-unit 0;
+
+    a {
+        font-weight: 700;
+        color: #fff;
+        margin-left: 10px;
+
+        &:hover {
+            border-bottom: 1px dashed #fff;
+        }
+    }
+}
