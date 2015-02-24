@@ -8,7 +8,7 @@ style: left
 
 
 ### In peer reviewed journals
-**Beissinger, T.M.**, Rosa, J.G.M., Kaeppler, S.M., de Leon, N., Gianola, D. Definingwindow-boundaries for genomic analyses using smoothing spline techniques. *Genetics Selection Evolution*. In Press.
+**Beissinger, T.M.**, Rosa, J.G.M., Kaeppler, S.M., de Leon, N., Gianola, D. Defining window-boundaries for genomic analyses using smoothing spline techniques. *Genetics Selection Evolution*. In Press.
 
 Lorenz, A. J., **Beissinger, T.M.**, Rodrigues, R., de Leon, N. [Selection for silageyield and composition did not affect genomic diversity within the Wisconsin QualitySynthetic maize population.](http://www.g3journal.org/content/early/2015/02/02/g3.114.015263.abstract){:target="_blank"} *Genes Genomes Genetics*. DOI: 10.1534/g3.114.015263.
 
