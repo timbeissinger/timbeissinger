@@ -17,7 +17,7 @@ Foerster, J.M., **Beissinger, T.M.**, de Leon, N., Kaeppler, S.M. 2015. [Large e
 
 Hirsch, C.N., Flint-Garcia, S.A., **Beissinger, T.M.**, Eichten, S.R., Deshpande, S., Barry, K., Springer, N.M., Buell, C.R., de Leon, N., Kappler, S.M. 2014. [Insights into the effects of long-term artificial selection on seed size in maize](http://www.genetics.org/content/198/1/409.abstract?sid=e4b2d64c-6e61-4c88-9ddd-2c492f16c35d){:target="_blank"}. *Genetics*. 198(1): 409-421.
 
-**Beissinger, T.M.**, Hirsch, C.N., Vaillancourt, B., Deshpande, S., Barry, K., Buell, C. R., Kaeppler, S. M., Gianola, D., de Leon, N. 2014. [A genome-wide scan forevidence of selection in a maize population under long-term artificial selection for ear number](http://www.genetics.org/content/196/3/829.abstract?sid=e4b2d64c-6e61-4c88-9ddd-2c492f16c35d){:target="_blank"}. *Genetics*. 196(3): 829-840.
+**Beissinger, T.M.**, Hirsch, C.N., Vaillancourt, B., Deshpande, S., Barry, K., Buell, C. R., Kaeppler, S. M., Gianola, D., de Leon, N. 2014. [A genome-wide scan for evidence of selection in a maize population under long-term artificial selection for ear number](http://www.genetics.org/content/196/3/829.abstract?sid=e4b2d64c-6e61-4c88-9ddd-2c492f16c35d){:target="_blank"}. *Genetics*. 196(3): 829-840.
 
 **\*Beissinger, T.M.**, Hirsch, C.N., Sekhon, R.S., Foerster, J.M., Johnson, J.M., Muttoni, G., Vaillancourt, B., Buell, C.R., Kaeppler, S.M., de Leon, N. 2013. [Marker density and read-depth for genotyping populations using genotyping-by-sequencing](http://www.genetics.org/content/193/4/1073.abstract?sid=e4b2d64c-6e61-4c88-9ddd-2c492f16c35d){:target="_blank"}. *Genetics*. 193: 1073-1081.  <br/>
 \* Selected as a highlighted article by the editorial board.
