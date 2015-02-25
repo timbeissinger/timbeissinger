@@ -31,6 +31,8 @@ selection](http://journal.frontiersin.org/article/10.3389/fgene.2011.00004/abstr
 ### Submitted
 **Beissinger, T.M.**, Gholami, M., Erbe, M., Weigend, S., Weigend, A., de Leon, N., Gianola, D., Simianer, H. Using the variability of linkage disequilibrium between subpopulations to scan for selection in a diverse panel of chickens. Submitted.
 
+Haase, N.J., Beissinger, T.M., Hirsch, C.N., Vaillancourt, B., Deshpande, S., Barry, K., Buell, C.R., Kaeppler, S., de Leon, N. Genetic Dissection of quantita- tive traits using a bulked segregant analysis (BSA)-sequencing method on a large segregating population of maize. Submitted.
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
