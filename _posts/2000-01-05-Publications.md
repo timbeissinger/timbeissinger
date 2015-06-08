@@ -8,6 +8,8 @@ style: left
 
 
 ### In peer reviewed journals
+Haase, N.J., **Beissinger, T.M.**, Hirsch, C.N., Vaillancourt, B., Deshpande, S., Barry, K., Buell, C.R., Kaeppler, S., de Leon, N. [Genetic Dissection of quantita- tive traits using a bulked segregant analysis (BSA)-sequencing method on a large segregating population of maize.](http://www.g3journal.org/content/early/2015/06/01/g3.115.017665.abstract){:target="_blank"} DOI: 10.1534/g3.115.017665.
+
 **Beissinger, T.M.**, Rosa, J.G.M., Kaeppler, S.M., de Leon, N., Gianola, D. 2015. [Defining window-boundaries for genomic analyses using smoothing spline techniques.](http://www.gsejournal.org/content/47/1/30){:target="_blank"} *Genetics Selection Evolution*. 47(30). DOI: 10.1186/s12711-015-0105-9.
 
 Lorenz, A. J., **Beissinger, T.M.**, Rodrigues, R., de Leon, N. 2015. [Selection for silage yield and composition did not affect genomic diversity within the Wisconsin QualitySynthetic maize population.](http://www.g3journal.org/content/early/2015/02/02/g3.114.015263.abstract){:target="_blank"} *Genes Genomes Genetics*. DOI: 10.1534/g3.114.015263.
@@ -30,8 +32,6 @@ selection](http://journal.frontiersin.org/article/10.3389/fgene.2011.00004/abstr
 
 ### Submitted
 **Beissinger, T.M.**, Gholami, M., Erbe, M., Weigend, S., Weigend, A., de Leon, N., Gianola, D., Simianer, H. Using the variability of linkage disequilibrium between subpopulations to scan for selection in a diverse panel of chickens. *Submitted*.
-
-Haase, N.J., **Beissinger, T.M.**, Hirsch, C.N., Vaillancourt, B., Deshpande, S., Barry, K., Buell, C.R., Kaeppler, S., de Leon, N. Genetic Dissection of quantita- tive traits using a bulked segregant analysis (BSA)-sequencing method on a large segregating population of maize. *Submitted*.
 
 
 <script>
